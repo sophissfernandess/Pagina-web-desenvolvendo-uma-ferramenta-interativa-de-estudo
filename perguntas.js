@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Palmeiras',
-    'Quantos titulo mundial o palmeiras têm?',
-    'Nenhum 🤣🤣🤣'
+    'Brasil',
+    'Quem descobriu o Brasil??',
+    'Os indios'
 )
